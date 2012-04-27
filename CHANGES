@@ -1,5 +1,9 @@
 = Change Log
 
+== Version 0.0.6
+
+* Thanks to Song Zheng for doing the following updates; Updated README for clarification. Also added test case to validate token parameters
+
 == Version 0.0.5
 
 * Added connection_data to generate token method (thanks to https://github.com/jonmumm)
